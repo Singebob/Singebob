@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+I'm Jeremy, fullstack developer in french
+
+### Languages
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
+![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+
 <!--
 **Singebob/Singebob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
